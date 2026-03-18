@@ -19,7 +19,7 @@ This project is an Online Voting System that allows users to vote securely throu
 
 ## ⚙️ How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/online-voting-system.git
+   git clone https://github.com/Aman12345-ops/Online-Voting-System
 
 2. Open project folder
 
